@@ -1,1 +1,3 @@
 New-Item alzbeta_markova.txt
+
+Dnes mam skvelou naladu
